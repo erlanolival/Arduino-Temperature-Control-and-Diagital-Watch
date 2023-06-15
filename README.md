@@ -1,1 +1,1 @@
-# Arduino-Temperature-Control-and-Diagital-Watch
+# Arduino-Temperature-Control-and-Digital-Watch
